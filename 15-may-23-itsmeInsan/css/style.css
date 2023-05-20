@@ -1,0 +1,84 @@
+.header{
+    background-color: rgb(0, 98, 189);
+    color:white;
+    text-align: center;
+    padding: 20px 20px;
+}
+span.title{
+    font-weight: bold;
+    font-size: xx-large;
+    color:white;
+}
+span.subtitle{
+    color: lightgrey;
+    font-size: large;
+}
+.example-square{
+    border: 1px solid red;
+    height: 100px;
+    width: 100px;
+}
+body{
+    background:white;
+}
+.Judul{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 30px;
+}
+.greetings{
+    font-size: 20px;
+    text-align: center;
+}
+.penjelasan{
+    font-size: large;
+    text-align: center;
+}
+.figure{
+    min-height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    padding-top: 20px;
+}
+.nameitem{
+    font-weight: bold;
+    text-align: center;
+}
+.rumuspersegi{
+    text-align: center;
+}
+.borderluaspersegi{
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+.headingluas{
+    background-color: rgb(0, 98, 189);
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 20px;
+}
+.judul2{
+text-align: center;
+}
+input {
+width: 100%;
+box-sizing: border-box;
+padding: 5px;
+}
+.paragraf{
+    padding-left: 10px;
+}
+.borderkelilingpersegi{
+    border: 1px solid blue;
+    box-sizing: border-box;
+}
+.headingkeliling{
+    background-color: rgb(0, 98, 189);
+    color:white;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px 20px;
+}
